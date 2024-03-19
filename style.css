@@ -1,5 +1,5 @@
 body {
-    background-color: #1E213A;
+    background-color:  #b973c9;
     font-family: Arial, sans-serif;
     color: #E7E7EB;
     margin: 0;
@@ -11,7 +11,7 @@ body {
 }
 
 .weather-content {
-    background-color: #100E1D;
+    background-color: #321cc3;
     width: 300px;
     padding: 20px;
     border-radius: 10px;
@@ -64,7 +64,7 @@ body {
 
 .get-weather input[type="submit"] {
     margin-top: 20px;
-    background-color: #007BFF;
+    background-color: #2a8c2f;
     border: none;
     color: white;
     cursor: pointer;
