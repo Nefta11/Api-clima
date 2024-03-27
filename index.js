@@ -28,6 +28,7 @@ function callAPI(city, country) {
     });
 }
 
+
 function showWeather(data) {
   const {
     name,
