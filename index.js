@@ -27,7 +27,6 @@ function callAPI(city, country) {
       }
     });
 }
-
 function showWeather(data) {
   const {
     name,
@@ -50,7 +49,6 @@ function showWeather(data) {
 
   result.appendChild(content);
 }
-
 function showError(message) {
   console.log(message);
   const alert = document.createElement("p");
